@@ -1,0 +1,225 @@
+<?xml version="1.0" standalone="yes"?>
+<Barcode3of9>
+  <Symbol>
+    <Character>-</Character>
+    <Symbology>n w n n n n w n w</Symbology>
+    <Binary>101011010101010110101101</Binary>
+  </Symbol>
+  <Symbol>
+    <Character>$</Character>
+    <Symbology>n w n w n w n n n</Symbology>
+    <Binary>101011010110101101010101</Binary>
+  </Symbol>
+  <Symbol>
+    <Character>%</Character>
+    <Symbology>n n n w n w n w n</Symbology>
+    <Binary>101010101101011010110101</Binary>
+  </Symbol>
+  <Symbol>
+    <Character>*</Character>
+    <Symbology>n w n n w n w n n</Symbology>
+    <Binary>101011010101101011010101</Binary>
+  </Symbol>
+  <Symbol>
+    <Character>.</Character>
+    <Symbology>w w n n n n w n n</Symbology>
+    <Binary>101101101010101011010101</Binary>
+  </Symbol>
+  <Symbol>
+    <Character>/</Character>
+    <Symbology>n w n w n n n w n</Symbology>
+    <Binary>101011010110101010110101</Binary>
+  </Symbol>
+  <Symbol>
+    <Character>+</Character>
+    <Symbology>n w n n n w n w n</Symbology>
+    <Binary>101011010101011010110101</Binary>
+  </Symbol>
+  <Symbol>
+    <Character>0</Character>
+    <Symbology>n n n w w n w n n</Symbology>
+    <Binary>101010101101101011010101</Binary>
+  </Symbol>
+  <Symbol>
+    <Character>1</Character>
+    <Symbology>w n n w n n n n w</Symbology>
+    <Binary>101101010110101010101101</Binary>
+  </Symbol>
+  <Symbol>
+    <Character>2</Character>
+    <Symbology>n n w w n n n n w</Symbology>
+    <Binary>101010110110101010101101</Binary>
+  </Symbol>
+  <Symbol>
+    <Character>3</Character>
+    <Symbology>w n w w n n n n n</Symbology>
+    <Binary>101101011011010101010101</Binary>
+  </Symbol>
+  <Symbol>
+    <Character>4</Character>
+    <Symbology>n n n w w n n n w</Symbology>
+    <Binary>101010101101101010101101</Binary>
+  </Symbol>
+  <Symbol>
+    <Character>5</Character>
+    <Symbology>w n n w w n n n n</Symbology>
+    <Binary>101101010110110101010101</Binary>
+  </Symbol>
+  <Symbol>
+    <Character>6</Character>
+    <Symbology>n n w w w n n n n</Symbology>
+    <Binary>101010110110110101010101</Binary>
+  </Symbol>
+  <Symbol>
+    <Character>7</Character>
+    <Symbology>n n n w n n w n w</Symbology>
+    <Binary>101010101101010110101101</Binary>
+  </Symbol>
+  <Symbol>
+    <Character>8</Character>
+    <Symbology>w n n w n n w n n</Symbology>
+    <Binary>101101010110101011010101</Binary>
+  </Symbol>
+  <Symbol>
+    <Character>9</Character>
+    <Symbology>n n w w n n w n n</Symbology>
+    <Binary>101010110110101011010101</Binary>
+  </Symbol>
+  <Symbol>
+    <Character>A</Character>
+    <Symbology>w n n n n w n n w</Symbology>
+    <Binary>101101010101011010101101</Binary>
+  </Symbol>
+  <Symbol>
+    <Character>B</Character>
+    <Symbology>n n w n n w n n w</Symbology>
+    <Binary>101010110101011010101101</Binary>
+  </Symbol>
+  <Symbol>
+    <Character>C</Character>
+    <Symbology>w n w n n w n n n</Symbology>
+    <Binary>101101011010101101010101</Binary>
+  </Symbol>
+  <Symbol>
+    <Character>D</Character>
+    <Symbology>n n n n w w n n w</Symbology>
+    <Binary>101010101011011010101101</Binary>
+  </Symbol>
+  <Symbol>
+    <Character>E</Character>
+    <Symbology>w n n n w w n n n</Symbology>
+    <Binary>101101010101101101010101</Binary>
+  </Symbol>
+  <Symbol>
+    <Character>F</Character>
+    <Symbology>n n w n w w n n n</Symbology>
+    <Binary>101010110101101101010101</Binary>
+  </Symbol>
+  <Symbol>
+    <Character>G</Character>
+    <Symbology>n n n n n w w n w</Symbology>
+    <Binary>101010101010110110101101</Binary>
+  </Symbol>
+  <Symbol>
+    <Character>H</Character>
+    <Symbology>w n n n n w w n n</Symbology>
+    <Binary>101101010101011011010101</Binary>
+    <Hex>B556D5</Hex>
+  </Symbol>
+  <Symbol>
+    <Character>I</Character>
+    <Symbology>n n w n n w w n n</Symbology>
+    <Binary>101010110101011011010101</Binary>
+  </Symbol>
+  <Symbol>
+    <Character>J</Character>
+    <Symbology>n n n n w w w n n</Symbology>
+    <Binary>101010101011011011010101</Binary>
+  </Symbol>
+  <Symbol>
+    <Character>K</Character>
+    <Symbology>w n n n n n n w w</Symbology>
+    <Binary>101101010101010101101101</Binary>
+    <Hex>B5556D</Hex>
+  </Symbol>
+  <Symbol>
+    <Character>L</Character>
+    <Symbology>n n w n n n n w w</Symbology>
+    <Binary>101010110101010101101101</Binary>
+  </Symbol>
+  <Symbol>
+    <Character>M</Character>
+    <Symbology>w n w n n n n w n</Symbology>
+    <Binary>101101011010101010110101</Binary>
+  </Symbol>
+  <Symbol>
+    <Character>N</Character>
+    <Symbology>n n n n w n n w w</Symbology>
+    <Binary>101010101011010101101101</Binary>
+  </Symbol>
+  <Symbol>
+    <Character>O</Character>
+    <Symbology>w n n n w n n w n</Symbology>
+    <Binary>101101010101101010110101</Binary>
+  </Symbol>
+  <Symbol>
+    <Character>P</Character>
+    <Symbology>n n w n w n n w n</Symbology>
+    <Binary>101010110101101010110101</Binary>
+  </Symbol>
+  <Symbol>
+    <Character>Q</Character>
+    <Symbology>n n n n n n w w w</Symbology>
+    <Binary>101010101010101101101101</Binary>
+  </Symbol>
+  <Symbol>
+    <Character>R</Character>
+    <Symbology>w n n n n n w w n</Symbology>
+    <Binary>101101010101010110110101</Binary>
+  </Symbol>
+  <Symbol>
+    <Character>S</Character>
+    <Symbology>n n w n n n w w n</Symbology>
+    <Binary>101010110101010110110101</Binary>
+  </Symbol>
+  <Symbol>
+    <Character>^</Character>
+    <Symbology>n w w n n n w n n</Symbology>
+    <Binary>101011011010101011010101</Binary>
+  </Symbol>
+  <Symbol>
+    <Character>T</Character>
+    <Symbology>n n n n w n w w n</Symbology>
+    <Binary>101010101011010110110101</Binary>
+  </Symbol>
+  <Symbol>
+    <Character>U</Character>
+    <Symbology>w w n n n n n n w</Symbology>
+    <Binary>101101101010101010101101</Binary>
+  </Symbol>
+  <Symbol>
+    <Character>V</Character>
+    <Symbology>n w w n n n n n w</Symbology>
+    <Binary>101011011010101010101101</Binary>
+  </Symbol>
+  <Symbol>
+    <Character>W</Character>
+    <Symbology>w w w n n n n n n</Symbology>
+    <Binary>101101101101010101010101</Binary>
+  </Symbol>
+  <Symbol>
+    <Character>X</Character>
+    <Symbology>n w n n w n n n w</Symbology>
+    <Binary>101011010101101010101101</Binary>
+  </Symbol>
+  <Symbol>
+    <Character>Y</Character>
+    <Symbology>w w n n w n n n n</Symbology>
+    <Binary>101101101010110101010101</Binary>
+  </Symbol>
+  <Symbol>
+    <Character>Z</Character>
+    <Symbology>n w w n w n n n n</Symbology>
+    <Binary>101011011010110101010101</Binary>
+  </Symbol>
+</Barcode3of9>

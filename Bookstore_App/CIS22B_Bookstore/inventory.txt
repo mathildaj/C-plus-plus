@@ -1,0 +1,2 @@
+0596009208|Head First Java|Kathy Sierra|O'Reilly Media|01/01/2017|2|20.00|30.00
+1118407814|Beginning Programming with Java|Barry A. Burd|For Dummies|01/01/2017|3|30.00|40.00			

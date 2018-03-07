@@ -1,0 +1,16 @@
+isbn
+title
+author
+publisher
+01/01/2017
+1
+30.00
+20.00
+isbn2
+title2
+author2
+publisher2
+01/01/2017
+1
+40.00
+30.00
